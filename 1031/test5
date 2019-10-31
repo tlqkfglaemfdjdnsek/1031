@@ -1,0 +1,4 @@
+#!/bin/bash
+# using the backtick charactar
+testing=`date`
+echo "The date and time are: " $testing
